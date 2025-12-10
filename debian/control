@@ -3,6 +3,7 @@ Section: devel
 Priority: optional
 Maintainer: Hilko Bengen <bengen@debian.org>
 Build-Depends: debhelper-compat (= 13),
+               python3-setuptools,
                dh-python,
                python3
 Standards-Version: 4.6.0
