@@ -1,5 +1,78 @@
-template-repository (1.0-1) unstable; urgency=medium
+btest (0.72-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream version 0.72
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Hilko Bengen <bengen@debian.org>  Tue, 06 Dec 2022 19:31:07 +0100
+
+btest (0.69-1) unstable; urgency=medium
+
+  * New upstream version 0.69
+  * Update Debhelper compat level, Standards-Version, URLs
+
+ -- Hilko Bengen <bengen@debian.org>  Tue, 28 Dec 2021 02:28:36 +0100
+
+btest (0.62-1) unstable; urgency=medium
+
+  * New upstream version 0.62
+
+ -- Hilko Bengen <bengen@debian.org>  Thu, 10 Sep 2020 22:08:44 +0200
+
+btest (0.61-1) unstable; urgency=medium
+
+  * New upstream version 0.61
+  * Update watch file
+
+ -- Hilko Bengen <bengen@debian.org>  Wed, 03 Jun 2020 08:26:43 +0200
+
+btest (0.59-1.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Update packaging to Python3.
+  * Use debhelper-compat build-dep.
+  * Bump Standards-Version.
+  * Add build-deps to dh-python.
+  * Use secure d/copyright format link.
+
+ -- Sascha Steinbiss <satta@debian.org>  Tue, 17 Dec 2019 17:23:26 +0100
+
+btest (0.59-1) unstable; urgency=medium
+
+  * New upstream version 0.59
+  * Update debian/watch
+
+ -- Hilko Bengen <bengen@debian.org>  Wed, 04 Sep 2019 00:11:48 +0200
+
+btest (0.58-1) unstable; urgency=medium
+
+  * New upstream version 0.58
+  * Bump Debhelper compat level
+  * Update Vcs-* headers after migration to salsa.debian.org
+  * Bump Standards-Version
+
+ -- Hilko Bengen <bengen@debian.org>  Mon, 24 Dec 2018 22:30:30 +0100
+
+btest (0.57-1) unstable; urgency=medium
+
+  * New upstream version 0.57
+
+ -- Hilko Bengen <bengen@debian.org>  Sun, 16 Jul 2017 14:11:48 +0200
+
+btest (0.56-1) unstable; urgency=medium
+
+  * New upstream version
+  * Update watch file; add PGP signature check
+  * Bump Standards-Version
+
+ -- Hilko Bengen <bengen@debian.org>  Wed, 23 Nov 2016 10:24:29 +0100
+
+btest (0.54-1) unstable; urgency=medium
+
+  * New upstream version
+
+ -- Hilko Bengen <bengen@debian.org>  Sat, 30 May 2015 21:00:33 +0200
+
+btest (0.53-1) unstable; urgency=low
+
+  * Initial release (Closes: #771010)
+
+ -- Hilko Bengen <bengen@debian.org>  Tue, 25 Nov 2014 23:23:18 +0100
